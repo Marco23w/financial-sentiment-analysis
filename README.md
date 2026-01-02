@@ -673,7 +673,7 @@ Contributi sono benvenuti! Se vuoi migliorare il progetto:
 
 ---
 
-** Se trovi utile questo progetto, considera di mettere una stella su GitHub!**
+**Se trovi utile questo progetto, considera di mettere una stella su GitHub!**
 ```
 
 ---
