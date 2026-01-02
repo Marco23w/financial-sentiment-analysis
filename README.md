@@ -259,7 +259,7 @@ Financial_Sentiment_Analysis/
 
 #### 1. Clona il Repository
 ```bash
-git clone https://github.com/[tuo-username]/financial-sentiment-analysis.git
+git clone https://github.com/Marco23w/financial-sentiment-analysis.git
 cd financial-sentiment-analysis
 ```
 
